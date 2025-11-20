@@ -64,7 +64,7 @@ Generated after running the script:
    ```
 2. Place the PDF:
    ```
-   C:\Users\vinch\Downloads\ukpga_20250022_en.pdf
+   ukpga_20250022_en.pdf
    ```
 3. Run:
    ```
