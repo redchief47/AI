@@ -1,0 +1,38 @@
+[
+  {
+    "rule": "Act must define key terms",
+    "status": "pass",
+    "evidence": "In this section — \n(a) “consumer prices index” means the all items consumer prices index \npublished by the Statistics Board; \n(b) a “relevant power” means— \n(i) the power in section 9(2) of the Welfar",
+    "confidence": 90
+  },
+  {
+    "rule": "Act must specify eligibility criteria",
+    "status": "partial",
+    "evidence": "Referenced claimant categories: pre-2026 claimant, severe conditions, terminally ill, limited capability for work, lcwra, lcw",
+    "confidence": 75
+  },
+  {
+    "rule": "Act must specify responsibilities of the administering authority",
+    "status": "fail",
+    "evidence": "No explicit obligations/responsibilities found.",
+    "confidence": 85
+  },
+  {
+    "rule": "Act must include enforcement or penalties",
+    "status": "fail",
+    "evidence": "No explicit penalties found in Act.",
+    "confidence": 90
+  },
+  {
+    "rule": "Act must include payment calculation or entitlement structure",
+    "status": "pass",
+    "evidence": "Step 1 \nWhere the tax year is 2026-27, take the amounts of the standard allowance \nfor tax year 2025-26. \nWhere the tax year is 2027-28, 2028-29 or 2029-30, take the amounts resulting \nfrom Step 2 for the previous tax year. \nStep 2 \nIncrease the amounts identified in Step 1 by the relevant CPI percentage for \nthe tax year. \nStep 3 \nIncrease the amounts resulting from Step 2 by the relevant uplift percentage \nfor the tax year. \n(3) The “relevant CPI percentage” for a tax year is the percentage by which the \nconsumer prices index for the September before the start of the tax year is \nhigher than it was for the September before that (or 0% if it is not higher). \n(4) The table below sets out the relevant uplift percentage for",
+    "confidence": 95
+  },
+  {
+    "rule": "Act must include record-keeping or reporting requirements",
+    "status": "fail",
+    "evidence": "No record-keeping obligations found.",
+    "confidence": 88
+  }
+]

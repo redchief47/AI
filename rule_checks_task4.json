@@ -1,0 +1,38 @@
+[
+  {
+    "rule": "Act must define key terms",
+    "status": "pass",
+    "evidence": "Definitions block located",
+    "confidence": 95
+  },
+  {
+    "rule": "Act must specify eligibility criteria",
+    "status": "partial",
+    "evidence": "nd \nwork-related activity, other than a pre-2026 claimant, \na severe conditions criteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and\n\nity, other than a pre-2026 claimant, \na severe conditions criteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and work-related \nactivit\n\ncriteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and work-related \nactivity” substitute “pre-2026 claimant, severe conditions cri\n\nr the rates of the standard allowance, \nlimited capability for work element and limited capability for work and \nwork-related activity element of universal credit and the rates of \nincome-related employment\n\nnce for tax years 2026-27 to 2029-30 \n2 LCWRA element for tax year 2026-27 \n3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n4 Protected LCWRA amount for tax years 2\n\nnce for tax years 2026-27 to 2029-30 \n2 LCWRA element for tax year 2026-27 \n3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n4 Protected LCWRA amount for tax years",
+    "confidence": 78
+  },
+  {
+    "rule": "Act must specify responsibilities of the administering authority",
+    "status": "fail",
+    "evidence": "No explicit obligations located by heuristics.",
+    "confidence": 55
+  },
+  {
+    "rule": "Act must include enforcement or penalties",
+    "status": "fail",
+    "evidence": "No explicit penalties or enforcement clauses located.",
+    "confidence": 90
+  },
+  {
+    "rule": "Act must include payment calculation or entitlement structure",
+    "status": "pass",
+    "evidence": "Step 1 \nWhere the tax year is 2026-27, take the amounts of the standard allowance \nfor tax year 2025-26. \nWhere the tax year is 2027-28, 2028-29 or 2029-30, take the amounts resulting \nfrom Step 2 for the previous tax year. \nStep 2 \nIncrease the amounts identified in Step 1 by the relevant CPI percentage for \nthe tax year. \nStep 3 \nIncrease the amounts resulting from Step 2 by the relevant uplift percentage \nfor the tax year. \n(3) The “relevant CPI percentage” for a tax year is the percentage by which the \nconsumer prices index for the September before the start of the tax year is \nhigher than it was for the September before that (or 0% if it is not higher). \n(4) The table below sets out the relevant uplift percentage for tax years 2026-27 \nto 2029-30— \nRelevant uplift pe",
+    "confidence": 96
+  },
+  {
+    "rule": "Act must include record-keeping or reporting requirements",
+    "status": "fail",
+    "evidence": "No explicit record-keeping or reporting obligations located.",
+    "confidence": 88
+  }
+]

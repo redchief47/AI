@@ -1,0 +1,60 @@
+{
+  "source_pdf_path": "C:\\Users\\vinch\\Downloads\\ukpga_20250022_en.pdf",
+  "generated_at": "2025-11-20T21:01:19.522643Z",
+  "summary_bullets": [
+    "Purpose: Sets minimum amounts for Universal Credit standard allowance and certain elements for tax years 2026–27 to 2029–30 and updates related regulations.",
+    "Key definitions: Contains definitions for calculation terms (e.g., 'consumer prices index', 'relevant power', 'standard allowance', 'tax year').",
+    "Eligibility: References claimant categories (pre-2026 claimant; severe conditions criteria claimant; claimant who is terminally ill) but does not fully restate general eligibility rules.",
+    "Obligations & responsibilities: Requires the Secretary of State (and corresponding NI department) to exercise specified powers to secure amounts and make regulatory amendments.",
+    "Payments/Entitlements: Prescribes a step-wise calculation (baseline → CPI increase → uplift percentage) and specifies uplift percentages for the tax years in scope.",
+    "Enforcement: No explicit new sanctions, fines or criminal offence clauses were located by heuristics.",
+    "Record-keeping/reporting: No explicit reporting or record-keeping duties were located in the Act text."
+  ],
+  "extracted_sections": {
+    "definitions": "In this section — \n(a) “consumer prices index” means the all items consumer prices index \npublished by the Statistics Board; \n(b) a “relevant power” means— \n(i) the power in section 9(2) of the Welfare Reform Act 2012 , or \n(ii) the power in section 150(2)(b) of the Social Security \nAdministration Act 1992 ; \n(c) “the standard allowance” means the allowance to be included in an \naward of universal credit under section 9(1) of the Welfare Reform \nAct 2012 ; \n(d) the standard allowance “for” a tax year means the standard allowance \napplicable for any assessment period commencing on or after the first \nMonday of that tax year and before the first Monday of the following \ntax year, and for this purpose “assessment period” has the same \nmeaning as in Part 1 of that Act. \n(7) In this section and sections 3 to 5— \n(a) “tax year” means the 12 months beginning with 6 April in any year; \n(b) “tax year 2025-26” means the tax year beginning on 6 April 2025 (and \nany corresponding expression in which two years are similarly \nmentioned is to be read in the same way). \n2 LCWRA element for tax year 2026-27 \n(1) In the table in regulation 36 of the Universal Credit Regulations 2013 (amounts \nof elements)— Universal Credit Act 2025 (c. 22) 2 \n(a) before the row showing the amount for limited capability for work \nand work-related activity (“the existing row”) insert— \n£217.26 ”; “claimant with limited capability for work and \nwork-related activity, other than a pre-2026 claimant, \na severe conditions criteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and work-related \nactivity” substitute “pre-2026 claimant, severe conditions criteria \nclaimant or claimant who is terminally ill”. \n(2) Schedule 1 makes further amendments to the Universal Credit Regulations \n2013 in connection with the amendments made by subsection (1). \n(3) This section and Schedule 1 come into force on 6 April 2026 and have effect \nin relation to assessment periods commencing on or after that date, and for \nthis purpose “assessment period” has the same meaning as in Part 1 of the \nWelfare Reform Act 2012 . \n3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n(1) Subsections (1) and (2) of section 150 of the Social Security Administration \nAct 1992 (annual up-rating of benefits) do not apply, in the tax years ending \nwith 5 April 2026, 5 April 2027, 5 April 2028 and 5 April 2029, to the LCWRA \nelement or the LCW element. \n(2) In this section — \n(a) “the LCWRA element” has the meaning given by regulation 27 of the \nUniversal Credit Regulations 2013 ; \n(b) “the LCW element” has the meaning given by regulation 27 of the \nUniversal Credit Regulations 2013 (so far as saved by paragraph 8 of",
+    "obligations": "No explicit obligations located by heuristics.",
+    "responsibilities": "No explicit obligations located by heuristics.",
+    "eligibility": "nd \nwork-related activity, other than a pre-2026 claimant, \na severe conditions criteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and\n\nity, other than a pre-2026 claimant, \na severe conditions criteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and work-related \nactivit\n\ncriteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and work-related \nactivity” substitute “pre-2026 claimant, severe conditions cri\n\nr the rates of the standard allowance, \nlimited capability for work element and limited capability for work and \nwork-related activity element of universal credit and the rates of \nincome-related employment\n\nnce for tax years 2026-27 to 2029-30 \n2 LCWRA element for tax year 2026-27 \n3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n4 Protected LCWRA amount for tax years 2\n\nnce for tax years 2026-27 to 2029-30 \n2 LCWRA element for tax year 2026-27 \n3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n4 Protected LCWRA amount for tax years",
+    "payments": "Step 1 \nWhere the tax year is 2026-27, take the amounts of the standard allowance \nfor tax year 2025-26. \nWhere the tax year is 2027-28, 2028-29 or 2029-30, take the amounts resulting \nfrom Step 2 for the previous tax year. \nStep 2 \nIncrease the amounts identified in Step 1 by the relevant CPI percentage for \nthe tax year. \nStep 3 \nIncrease the amounts resulting from Step 2 by the relevant uplift percentage \nfor the tax year. \n(3) The “relevant CPI percentage” for a tax year is the percentage by which the \nconsumer prices index for the September before the start of the tax year is \nhigher than it was for the September before that (or 0% if it is not higher). \n(4) The table below sets out the relevant uplift percentage for tax years 2026-27 \nto 2029-30— \nRelevant uplift pe",
+    "penalties": "No explicit penalties or enforcement clauses located.",
+    "record_keeping": "No explicit record-keeping or reporting obligations located."
+  },
+  "rule_checks": [
+    {
+      "rule": "Act must define key terms",
+      "status": "pass",
+      "evidence": "Definitions block located",
+      "confidence": 95
+    },
+    {
+      "rule": "Act must specify eligibility criteria",
+      "status": "partial",
+      "evidence": "nd \nwork-related activity, other than a pre-2026 claimant, \na severe conditions criteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and\n\nity, other than a pre-2026 claimant, \na severe conditions criteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and work-related \nactivit\n\ncriteria claimant or a claimant who \nis terminally ill \n(b) in the existing row, for “limited capability for work and work-related \nactivity” substitute “pre-2026 claimant, severe conditions cri\n\nr the rates of the standard allowance, \nlimited capability for work element and limited capability for work and \nwork-related activity element of universal credit and the rates of \nincome-related employment\n\nnce for tax years 2026-27 to 2029-30 \n2 LCWRA element for tax year 2026-27 \n3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n4 Protected LCWRA amount for tax years 2\n\nnce for tax years 2026-27 to 2029-30 \n2 LCWRA element for tax year 2026-27 \n3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n4 Protected LCWRA amount for tax years",
+      "confidence": 78
+    },
+    {
+      "rule": "Act must specify responsibilities of the administering authority",
+      "status": "fail",
+      "evidence": "No explicit obligations located by heuristics.",
+      "confidence": 55
+    },
+    {
+      "rule": "Act must include enforcement or penalties",
+      "status": "fail",
+      "evidence": "No explicit penalties or enforcement clauses located.",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must include payment calculation or entitlement structure",
+      "status": "pass",
+      "evidence": "Step 1 \nWhere the tax year is 2026-27, take the amounts of the standard allowance \nfor tax year 2025-26. \nWhere the tax year is 2027-28, 2028-29 or 2029-30, take the amounts resulting \nfrom Step 2 for the previous tax year. \nStep 2 \nIncrease the amounts identified in Step 1 by the relevant CPI percentage for \nthe tax year. \nStep 3 \nIncrease the amounts resulting from Step 2 by the relevant uplift percentage \nfor the tax year. \n(3) The “relevant CPI percentage” for a tax year is the percentage by which the \nconsumer prices index for the September before the start of the tax year is \nhigher than it was for the September before that (or 0% if it is not higher). \n(4) The table below sets out the relevant uplift percentage for tax years 2026-27 \nto 2029-30— \nRelevant uplift pe",
+      "confidence": 96
+    },
+    {
+      "rule": "Act must include record-keeping or reporting requirements",
+      "status": "fail",
+      "evidence": "No explicit record-keeping or reporting obligations located.",
+      "confidence": 88
+    }
+  ]
+}
